@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif !important;
+}
+.register-btn{
+    color: #289BDE;
+    border-color: #289BDE;
+}
+.getstarted-btn{
+    color: white;
+    border-color: #289BDE !important;
+    background-color: #289BDE !important;
+}
+.CaroImg-style{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: overlay;
+}
+.CaroImg1{
+    background-image: url(images/cover/cover-1.png);
+    width: 100%;
+}
+.CaroImg2{
+    background-image: url(images/cover/cover-2.jpg);
+}
+.CaroImg3{
+    background-image: url(images/cover/cover-3.jpg);
+}
