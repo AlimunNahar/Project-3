@@ -41,3 +41,6 @@ body{
 .single-star{
     color: gold;
 }
+.accordion-header:focus{
+    color: black !important;
+}
