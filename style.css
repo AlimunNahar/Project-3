@@ -44,3 +44,12 @@ body{
 .accordion-header:focus{
     color: black !important;
 }
+.link-a{
+    text-decoration: none;
+}
+.fa-brands{
+    background-color: black;
+    border-radius: 50px;
+    padding: 10px;
+    color: whitesmoke;
+}
