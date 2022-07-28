@@ -31,3 +31,13 @@ body{
 .CaroImg3{
     background-image: url(images/cover/cover-3.jpg);
 }
+.button-more{
+    border: none;
+    color: #289BDE;
+}
+.fa-star{
+    color: goldenrod;
+}
+.single-star{
+    color: gold;
+}
